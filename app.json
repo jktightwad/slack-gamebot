@@ -2,6 +2,7 @@
 	"name": "GameBot for Slack",
 	"description": "Stats and leaderboards for your favorite games in Slack.",
 	"respository": "https://github.com/dblock/slack-gamebot",
+	"stack": "heroku-18"
 	"keywords": ["slack", "games", "bot"],
 	"addons": [
 		"mongolab"
