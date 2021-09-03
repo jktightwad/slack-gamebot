@@ -6,7 +6,4 @@
 	"addons": [
 		"mongolab"
 	]
-},
-{
-   "stack": "heroku-20"
 }
